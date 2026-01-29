@@ -9,10 +9,16 @@ DAY 1
 5-<img width="1920" height="1080" alt="Sum of two last digit" src="https://github.com/user-attachments/assets/7bfdfa16-6711-4f51-a362-881195958f4d" />
 DAY 2-
 1-<img width="1920" height="1080" alt="Is N an exact multiple of M" src="https://github.com/user-attachments/assets/a613c5f8-3da5-455f-a2de-a8323d082855" />
-2-
+2-<img width="1920" height="1080" alt="Of given 5 numbers, how many are even" src="https://github.com/user-attachments/assets/e2e28072-eeb3-4c09-86a4-6636d4fbbe53" />
+
+3-<img width="1920" height="1080" alt="Of given 5 numbers, how many are odd" src="https://github.com/user-attachments/assets/babdadc5-c280-446f-b750-511bb283bb11" />
+
+4-<img width="1920" height="1080" alt="Of 5 numbers, how many are even or odd" src="https://github.com/user-attachments/assets/6f4ee2cd-80ef-468c-8104-7c1a0ee25e11" />
+DAY 3-
+1-<img width="1920" height="1080" alt="Is Prime" src="https://github.com/user-attachments/assets/20b770d2-8bfa-432d-86dc-ad027add0689" />
+2-<img width="1920" height="1080" alt="Factorial of a number" src="https://github.com/user-attachments/assets/59db032c-027f-4442-9510-3e92f97a7d8c" />
 3-
-4-
-5-
+
 
 
 
