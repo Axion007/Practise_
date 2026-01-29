@@ -1,14 +1,11 @@
 ## Day 1 – Basics
 
-### 1. Even or Odd
-Check if a given integer is even or odd using modulo operator.
+Problems solved:
+1. Check whether a number is even or odd
+2. Find the last digit of a number
+3. Find the second last digit of a number
 
-### 2. Last Digit
-Extract the last digit of a number using % 10.
-
-### 3. Second Last Digit
-Remove last digit and extract the next digit.
-
-### Notes
-- Focus on integer division
-- No library functions used
+Concepts used:
+- Modulo operator (%)
+- Integer division
+- Conditional statements
