@@ -3,7 +3,7 @@
 Daily practice problems to build strong programming fundamentals.
 
 ## Language
-- C
+- Java
 
 ## Topics Covered
 - Number manipulation
