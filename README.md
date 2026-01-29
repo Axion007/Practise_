@@ -1,5 +1,9 @@
 # Practise_
 just me solving
 Online Test Window - 
-1-<img width="1920" height="1080" alt="Online Test Window - Google Chrome 29-01-2026 23_53_54" src="https://github.com/user-attachments/assets/5f58179f-8f78-42f1-90d6-32c0078fb60e" />
+DAY 1
+1-<img width="1920" height="1080" alt="even" src="https://github.com/user-attachments/assets/80126c0d-a849-4f83-90f2-1d1a402a932a" />
+2-<img width="1920" height="1080" alt="odd" src="https://github.com/user-attachments/assets/0a9e9f10-094a-48ed-af39-3ae301c8d23e" />
+
+
 
